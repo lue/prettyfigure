@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
   name = 'prettyfigure',
   packages = ['prettyfigure'],
-  version = '0.1',
+  version = '0.1.1',
   description = 'Styles for matplotlib',
   author = 'Alexander A. Kaurov',
   author_email = 'akaurov@gmail.com',
