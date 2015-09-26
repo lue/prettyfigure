@@ -5,7 +5,7 @@ Uses Latex by default.
 
 ## Installation
 ```
-pip install prettyfigre
+pip install prettyfigure
 ```
 
 ## Usage
